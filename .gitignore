@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# liyang additional folders and files
+/.idea/
+/.DS_Store
